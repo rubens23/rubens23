@@ -1,13 +1,9 @@
 # 💫 Sobre mim:
 
-Desenvolvedor Android iniciante mas com muita fome de aprendizado. Comecei a estudar programação em 2020, mas encontrei
+Desenvolvedor Android Nativo com 1 ano e meio de experiência e app publicado na PlayStore. Comecei a estudar programação em 2020, mas encontrei
 a linguagem com a qual queria trabalhar em 2022. Gosto muito de desenvolver aplicativos e é muito gratificante ver
 algo que você projetou e trabalhou ganhar forma e se tornar algo útil que pode ajudar as outras pessoas.
 
-**Atualmente:** Estudando muito fazendo meus projetos pessoais e tentando deixar meus apps cada vez mais limpos e melhores.
-
-**Estudando:** Atualmente estou fazendo um projeto que envolve um banco de dados no firebase e dois apps principais. Um app que vai servir para o dono do negócio administrar algumas informações com relação à funcionários, serviços e agendamentos de serviços e outro app que é para o cliente agendar esses serviços.<br/> Estou pensando nas necessidades que o cliente pode ter e estou colocando tudo no app, para ficar o mais próximo possível a um app profissional que poderia realmente ser utilizado num negócio real.<br/><br/>
-Esse projeto está ficando bem legal e em breve postarei ele aqui no github.
 
 
 # 📧 Contato:
