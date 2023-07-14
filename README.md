@@ -2,7 +2,7 @@
 
 Desenvolvedor Android Nativo com 1 ano e meio de experiência e app publicado na PlayStore. Comecei a estudar programação em 2020, mas encontrei
 a linguagem com a qual queria trabalhar em 2022. Gosto muito de desenvolver aplicativos e é muito gratificante ver
-algo que você projetou e trabalhou ganhar forma e se tornar algo útil que pode ajudar as outras pessoas.
+algo que eu projetei e trabalhei, ganhar forma e se tornar algo útil que pode ajudar as outras pessoas.
 
 Veja meu portfólio na seção pinned repositories logo abaixo.
 
