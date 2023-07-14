@@ -21,9 +21,5 @@ Veja meu portfólio na seção pinned repositories logo abaixo.
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rubens23&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rubens23&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rubens23&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rubens23&label=Profile%20views&color=ce9927&style=flat" alt="rubens23" /> </p>
