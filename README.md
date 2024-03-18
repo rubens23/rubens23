@@ -1,3 +1,12 @@
+English: 
+# 💫 About me:
+Native Android developer with 2 years of experience and app published on the PlayStore. I started studying programming in 2021, but I found
+the language I wanted to work with in 2022. I really like developing applications and it is very rewarding to see
+something I designed and worked on, takes shape and becomes something useful that can help other people.
+
+See my portfolio in the pinned repositories section below.
+
+Português:
 # 💫 Sobre mim:
 
 Desenvolvedor Android Nativo com 2 anos de experiência e app publicado na PlayStore. Comecei a estudar programação em 2021, mas encontrei
