@@ -4,6 +4,17 @@ Native Android developer with 2 years of experience and app published on the Pla
 the language I wanted to work with in 2022. I really like developing applications and it is very rewarding to see
 something I designed and worked on, takes shape and becomes something useful that can help other people.
 
+I can build both the frontend as well as the backend of your app!
+
+Got experience in:
+- kotlin
+- mvvm
+- compose
+- build servers
+- xml
+- injeção de dependência
+- testes unitarios e instrumentados
+
 See my portfolio in the pinned repositories section below.
 
 Português:
@@ -12,6 +23,18 @@ Português:
 Desenvolvedor Android Nativo com 2 anos de experiência e app publicado na PlayStore. Comecei a estudar programação em 2021, mas encontrei
 a linguagem com a qual queria trabalhar em 2022. Gosto muito de desenvolver aplicativos e é muito gratificante ver
 algo que eu projetei e trabalhei, ganhar forma e se tornar algo útil que pode ajudar as outras pessoas.
+
+Eu posso construir tanto o front quanto o backend do seu app!
+
+
+Tenho experiência em:
+- kotlin
+- mvvm
+- compose
+- construir servers
+- xml
+- injeção de dependência
+- testes unitarios e instrumentados
 
 Veja meu portfólio na seção pinned repositories logo abaixo.
 
