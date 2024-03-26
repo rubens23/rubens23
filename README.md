@@ -1,3 +1,5 @@
+*Para ver em português role a página para baixo.
+
 English: 
 # 💫 About me:
 Native Android developer with 2 years of experience and app published on the PlayStore. I started studying programming in 2021, but I found
@@ -18,7 +20,6 @@ Got experience in:
 See my portfolio in the pinned repositories section below.
 
 Português:
-# 💫 Sobre mim:
 
 Desenvolvedor Android Nativo com 2 anos de experiência e app publicado na PlayStore. Comecei a estudar programação em 2021, mas encontrei
 a linguagem com a qual queria trabalhar em 2022. Gosto muito de desenvolver aplicativos e é muito gratificante ver
