@@ -2,14 +2,16 @@
 
 English: 
 # 💫 About me:
-Native Android developer with 2 years of experience and app published on the PlayStore. I started studying programming in 2021, but I found
-the language I wanted to work with in 2022. I really like developing applications and it is very rewarding to see
-something I designed and worked on, takes shape and becomes something useful that can help other people.
+Hello! I'm an Android developer with almost 3 years of experience. I develop in Kotlin, Java and recently started working with Flutter. I've already put an app on the Playstore and I'm also part of an open-source project called Mensinator. 
+
+I've also worked as a freelance Android developer. I'm looking for an internship or junior position in mobile development
 
 I can build both the frontend as well as the backend of your app!
 
 Got experience in:
 - kotlin
+- Java
+- Flutter
 - mvvm
 - compose
 - build servers
@@ -21,15 +23,17 @@ See my portfolio in the pinned repositories section below.
 
 Português:
 
-Desenvolvedor Android Nativo com 2 anos de experiência e app publicado na PlayStore. Comecei a estudar programação em 2021, mas encontrei
-a linguagem com a qual queria trabalhar em 2022. Gosto muito de desenvolver aplicativos e é muito gratificante ver
-algo que eu projetei e trabalhei, ganhar forma e se tornar algo útil que pode ajudar as outras pessoas.
+Olá! Sou um desenvolvedor Android com quase 3 anos de experiência. Desenvolvo em Kotlin, Java e recentemente comecei a mexer com Flutter. Já coloquei app na playstore e também participo de um projeto openSource chamado Mensinator. Também já trabalhei prestando serviços freelance de desenvolvimento android. 
+
+Estou em busca de uma vaga de estágio ou junior em desenvolvimento mobile ou desenvolvimento de software.
 
 Eu posso construir tanto o front quanto o backend do seu app!
 
 
 Tenho experiência em:
 - kotlin
+- Java
+- Flutter
 - mvvm
 - compose
 - construir servers
